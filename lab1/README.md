@@ -21,7 +21,7 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 ### Apple Silicon Machines ARM64
 
-**Recommended path (officially supported by SEED): VMware Fusion (Player/Pro)**
+**Recommended path (officially supported by SEED): VMware Fusion**
 1. Follow SEED’s **Fusion installation guide for Apple Silicon**: https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
 This single page shows how to: (a) download/install **VMware Fusion (Apple Silicon)** and (b) get the **Ubuntu 22.04 ARM64** image.
 2. Install **VMware Fusion (Apple Silicon)** following the guide above.  
@@ -30,7 +30,8 @@ This single page shows how to: (a) download/install **VMware Fusion (Apple Silic
 4. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
 5. Unzip the setup file and start your lab.
 
-*Optional:* **VirtualBox 7.1+** on Apple Silicon can run **ARM64** guests, but this course recommends Fusion for best compatibility.
+**Alternative: VirtualBox on Apple Silicon**  
+VirtualBox 7.1+ / 7.2+ adds **macOS/Arm64 host** support. If you choose VirtualBox on an Apple Silicon Mac, follow the *same flow as the Intel/AMD section* but make sure you use an **ARM64 (Ubuntu 22.04) guest**. Expect potential hiccups; the course staff officially supports the VMware Fusion path above.
 
 ## Cross-Site Scripting (XSS) Attack Lab (50 points)
 
