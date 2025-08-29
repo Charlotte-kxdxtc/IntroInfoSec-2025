@@ -4,7 +4,9 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 ## Environment Setup
 
-Remember you can always gain access to the computers in the MSSI lab. YOu may need to complete certain paperwork for this.
+**Remember: If your laptop runs into VM issues, you can always do the lab on the MSSI Lab computers.**
+To use the lab machines, first **activate your ISI/MSSI account**: <https://wiki.isi.jhu.edu/index.php/MSSI_Accounts>.  
+For details, see Christopher Venghaus’s email titled **“MSSI Account Information”**
 
 ### Intel/AMD Machines x86-64
 
@@ -17,13 +19,12 @@ Remember you can always gain access to the computers in the MSSI lab. YOu may ne
 
 ### Apple Silicon Machines ARM64
 
-1. The new VirtualBox Player may be compaitable with the these computers.
-2. Install VMware Fusion first, https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html if you do not have it already. (Note: VMware Fusion is available for Apple Silicon M chiip Macs, If you have trouble with this step, we encourage you to find a solution by yourself)
-3. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
-4. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the VM (Ubuntu 22.04).
-5. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-6. Download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
-7. Unzip the setup file and start your lab.
+**Recommended path (officially supported by SEED): VMware Fusion (Player/Pro)**
+1. Follow SEED’s **Fusion installation guide for Apple Silicon** (this includes the exact settings and links you need):  
+[   <https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-v2/SeedVM-Fusion_Installation.md>  ](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md)
+2. Start the VM and log in with the credentials shown in the SEED lab setup page.  
+3. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
+4. Unzip the setup file and start your lab.
 
 ## Cross-Site Scripting (XSS) Attack Lab (50 points)
 
