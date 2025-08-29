@@ -23,7 +23,7 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 **Recommended path (officially supported by SEED): VMware Fusion (Player/Pro)**
 1. Follow SEED’s **Fusion installation guide for Apple Silicon** (this includes the exact settings and links you need):  
-[[   <https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-v2/SeedVM-Fusion_Installation.md>  ](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md)](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md)
+(https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md)
    This single page shows how to: (a) download/install **VMware Fusion (Apple Silicon)** and (b) get the **Ubuntu 22.04 ARM64** image.
 2. Install **VMware Fusion (Apple Silicon)** following the guide above.  
 *Tip (Broadcom page): if the **Download** button is disabled, click **Terms and Conditions** → check **I agree** → try again.*
