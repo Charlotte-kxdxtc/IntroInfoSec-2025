@@ -5,7 +5,8 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 ## Environment Setup
 
 > [!IMPORTANT]
-> If your laptop runs into VM issues, you can always do the lab on the **MSSI Lab** computers. 
+> If your laptop runs into VM issues, you can always do the lab on the **MSSI Lab** computers.
+> 
 > First **activate your ISI/MSSI account**: [https://wiki.isi.jhu.edu/index.php/MSSI_Accounts](https://wiki.isi.jhu.edu/index.php/MSSI_Accounts)  
 > For details, see Christopher Venghaus’s email: **“MSSI Account Information.”**
 
