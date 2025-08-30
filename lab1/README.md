@@ -7,8 +7,8 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 > [!IMPORTANT]
 > If your laptop runs into VM issues, you can always do the lab on the **MSSI Lab** computers.
 > 
-> First **activate your ISI/MSSI account**: [https://wiki.isi.jhu.edu/index.php/MSSI_Accounts](https://wiki.isi.jhu.edu/index.php/MSSI_Accounts)  
-> For details, see Christopher Venghaus’s email: **“MSSI Account Information.”**
+> First **activate your ISI/MSSI account**: https://wiki.isi.jhu.edu/index.php/MSSI_Accounts 
+> For details, see Christopher Venghaus’s email titled **“MSSI Account Information.”**
 
 
 ### Intel/AMD Machines x86-64
@@ -22,7 +22,8 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 ### Apple Silicon Machines ARM64
 1. Follow SEED’s **Fusion installation guide for Apple Silicon**: https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
-This single page shows how to: (a) download/install **VMware Fusion (Apple Silicon)** and (b) get the **Ubuntu 22.04 ARM64** image. 
+
+This single page shows how to: (a) download **VMware Fusion (Apple Silicon)** and (b) get the **Ubuntu 22.04 ARM64** image. 
 *Tip: On Broadcom’s download page, if the **Download** button is disabled: click **Terms and Conditions**, check **I agree**, then try again.  
 2. Start the VM and log in with the credentials shown in the SEED lab setup page.  
 3. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. Unzip the setup file and start your lab.
