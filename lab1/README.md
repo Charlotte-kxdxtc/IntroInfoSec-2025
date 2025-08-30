@@ -20,7 +20,7 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 6. Unzip the setup file and start your lab.
 
 ### Apple Silicon Machines ARM64
-1. Follow SEED’s **Fusion installation guide for Apple Silicon**: https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md to download & install VMware Fusion (Apple Silicon) and get Ubuntu 22.04 ARM64:
+1. Follow SEED’s [**Fusion installation guide for Apple Silicon**](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md) to download & install VMware Fusion (Apple Silicon) and get Ubuntu 22.04 ARM64:
    
    > On Broadcom’s download page, if **Download** is disabled, click **Terms and Conditions** → check **I agree** → try again.
    > <img src="../fusion-download-terms.png" width="780" alt="Broadcom portal: check 'I agree' to enable the Download button">
