@@ -10,7 +10,7 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 ### Intel/AMD Machines x86-64
 1. Follow SEED’s [**VM manual for VirtualBox**](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md) to download & install VirtualBox and get the pre-built Ubuntu 20.04 x86-64 VM.
-2. Start the VM and log in with the credentials shown on the SEED Lab Environment Setup page.
+2. Start the VM and log in with the credentials shown on the SEED Lab Environment Setup page.  
 3. Download the **Labsetup.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. **Unzip the setup file** and start your lab.
 
 
