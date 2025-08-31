@@ -9,21 +9,19 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 
 
 ### Intel/AMD Machines x86-64
+1. Follow SEED’s [**VM manual for VirtualBox**](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md) to download & install VirtualBox and get the pre-built Ubuntu 20.04 x86-64 VM.
+2. Start the VM and log in with the credentials shown on the SEED Lab Environment Setup page.
 
-1. Install VirtualBox first, https://www.virtualbox.org/ if you do not have it already. (Note: VirtualBox is available for most consumer computers, If you have trouble with this step, we encourage you to find a solution by yourself)
-2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
-3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits).
-4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-5. Download the lab specific zip file (Labsetup.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VirtualBox.
-6. Unzip the setup file and start your lab.
+3. Download the lab package (**Labsetup.zip**) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. **Unzip the setup file** and start your lab.
+
 
 ### Apple Silicon Machines ARM64
-1. Follow SEED’s [**Fusion installation guide for Apple Silicon**](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md) to download & install VMware Fusion (Apple Silicon) and get Ubuntu 22.04 ARM64:
+1. Follow SEED’s [**Fusion installation guide for Apple Silicon**](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md) to download & install VMware Fusion (Apple Silicon) and get Ubuntu 22.04 ARM64.
    
    > On Broadcom’s download page, if **Download** is disabled, click **Terms and Conditions** → check **I agree** → try again.
    > <img src="../fusion-download-terms.png" width="780" alt="Broadcom portal: check 'I agree' to enable the Download button">
 2. Start the VM and log in with the credentials shown in the SEED lab setup page.  
-3. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. Unzip the setup file and start your lab.
+3. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. **Unzip the setup file** and start your lab.
 
 ## Cross-Site Scripting (XSS) Attack Lab (50 points)
 
