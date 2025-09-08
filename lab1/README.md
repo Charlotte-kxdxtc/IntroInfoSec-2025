@@ -1,6 +1,6 @@
-# Lab Assignment 1
+# Lab 1 - Web Security Attack
 
-In this lab, you will complete the XSS lab tasks from the SEED Labs. You will learn to code and attack a vulnerable social media application installed in a VM. Coding experience is recommended, so you might want to work with someone with relevant backgrounds.
+In this lab, you will complete the XSS web attack lab tasks from the SEED Labs. You will learn to code and attack a vulnerable social media application installed in a VM. Coding experience is recommended, so you might want to work with someone with relevant backgrounds.
 
 ## Environment Setup
 
@@ -22,9 +22,10 @@ In this lab, you will complete the XSS lab tasks from the SEED Labs. You will le
 2. Start the VM and log in with the credentials shown in the SEED lab setup page.  
 3. Download **Labsetup-arm.zip** from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion. **Unzip the setup file** and start your lab.
 
-## Cross-Site Scripting (XSS) Attack Lab (50 points)
 
-Please thoroughly read the [lab description](https://seedsecuritylabs.org/Labs_20.04/Files/Web_XSS_Elgg/Web_XSS_Elgg.pdf) and complete all the tasks listed in it. We recommend you first go through all the instructions before you start. You need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. An example is given for what it would look like.
+## Cross-Site Scripting (XSS) Attack Lab
+
+Please thoroughly read the [lab instructions](https://seedsecuritylabs.org/Labs_20.04/Files/Web_XSS_Elgg/Web_XSS_Elgg.pdf) and complete all the tasks listed in it. We recommend you first go through all the instructions before you start. You need to write a detailed report with adequate screenshots and explanations, including your code and demonstration that your attacks are successful. An example is given for what it would look like.
 
 In addition, please answer the following questions:
 
@@ -41,5 +42,5 @@ In addition, please answer the following questions:
 
 ## Grading
 
-- Completeness (30 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
-- Presentation (20 pts): The report must be clear and correct in organization and writing with adequate explanation.
+- Completeness (25 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
+- Presentation (15 pts): The report must be clear and correct in organization and writing with adequate explanation.
